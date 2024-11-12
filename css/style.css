@@ -341,7 +341,7 @@ https://www.tooplate.com/view/2120-ben-resume
 
   .about-image {
     border-radius: var(--border-radius-small);
-    height: 75%
+    width:100%
   }
 
   .profile-list li {
